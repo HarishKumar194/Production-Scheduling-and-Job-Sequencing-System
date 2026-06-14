@@ -24,3 +24,4 @@ A Python-based manufacturing scheduling system that optimizes job execution orde
 - Production Planning
 - Job Scheduling
 - Machine Utilization Analysis
+![Output](output_scheduling.png)
