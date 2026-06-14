@@ -1,5 +1,4 @@
 # Production-Scheduling-and-Job-Sequencing-System
-# Production Scheduling and Job Sequencing System
 
 ## Overview
 A Python-based manufacturing scheduling system that optimizes job execution order using classical scheduling algorithms.
